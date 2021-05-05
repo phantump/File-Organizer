@@ -1,0 +1,13 @@
+Format: Commander
+Colors: Blue, Black, Green
+Commander: Jorn, God of Winter// Kaldring, the Rimestaff
+	CREATURES:
+Draugr Necromancer
+Ohran Viper
+Ascendant Spirit
+Josu Vess, Lich Knight
+Grave Titan
+Icehide Troll
+Avalanche Caller
+Frost Augur
+Jarl of the Forsaken

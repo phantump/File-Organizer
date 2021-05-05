@@ -1,0 +1,3 @@
+Format: Commander
+Colors: Blue, Green
+Commander: Kinnan Bonder Prodigy

@@ -1,0 +1,7 @@
+Format: Commander
+Colors: Blue
+Commander: Tromokratis
+	CREATURES:
+Nadir Kraken
+Stormtide Leviathan
+Inkwell Leviathan
